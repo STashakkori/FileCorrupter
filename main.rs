@@ -1,3 +1,6 @@
+// File Corrupter
+// By: r00r00, QVLx Labs
+
 use rand::{RngCore, SeedableRng, StdRng};
 use std::env;
 use std::fs::{self, File};
